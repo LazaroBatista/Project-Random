@@ -7,6 +7,7 @@ Um sorteador aleatório de números.
 - [Descrição](#descrição)
 - [Funcionalidades](#funcionalidades)
 - [Como usar](#como-usar)
+- [Acesse online](#acesse-online)
 - [Tecnologias](#tecnologias)
 - [Contribuição](#contribuição)
 - [Licença](#licença)
@@ -29,6 +30,11 @@ Projeto simples para sortear um número aleatório entre dois valores definidos 
    ```
 2. Abra o arquivo `index.html` no navegador.
 3. Insira os valores e clique em "Sortear".
+
+## Acesse online
+
+Você pode acessar o projeto funcionando em:  
+[https://lazarobatista.github.io/Project-Random/](https://lazarobatista.github.io/Project-Random/)
 
 ## Tecnologias
 
